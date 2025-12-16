@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHcJ7x2lQmE=",
+  "success": true,
+  "projectFilePath": "/home/ogrey/dotnet/todoApp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/ogrey/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/microsoft.extensions.dependencymodel/10.0.0/microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry/1.14.0/opentelemetry.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.api/1.14.0/opentelemetry.api.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.api.providerbuilderextensions/1.14.0/opentelemetry.api.providerbuilderextensions.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.exporter.opentelemetryprotocol/1.14.0/opentelemetry.exporter.opentelemetryprotocol.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.extensions.hosting/1.14.0/opentelemetry.extensions.hosting.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.instrumentation.aspnetcore/1.14.0/opentelemetry.instrumentation.aspnetcore.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.instrumentation.http/1.14.0/opentelemetry.instrumentation.http.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/opentelemetry.instrumentation.runtime/1.14.0/opentelemetry.instrumentation.runtime.1.14.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/scalar.aspnetcore/2.11.6/scalar.aspnetcore.2.11.6.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog/4.3.0/serilog.4.3.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.aspnetcore/10.0.0/serilog.aspnetcore.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.extensions.hosting/10.0.0/serilog.extensions.hosting.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.extensions.logging/10.0.0/serilog.extensions.logging.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.formatting.compact/3.0.0/serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.settings.configuration/10.0.0/serilog.settings.configuration.10.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.sinks.console/6.1.1/serilog.sinks.console.6.1.1.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.sinks.debug/3.0.0/serilog.sinks.debug.3.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.sinks.file/7.0.0/serilog.sinks.file.7.0.0.nupkg.sha512",
+    "/home/ogrey/.nuget/packages/serilog.sinks.seq/9.0.0/serilog.sinks.seq.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

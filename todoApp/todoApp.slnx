@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure.SQL/Infrastructure.SQL.csproj" />
+  <Project Path="Service\Service.csproj" />
+</Solution>
