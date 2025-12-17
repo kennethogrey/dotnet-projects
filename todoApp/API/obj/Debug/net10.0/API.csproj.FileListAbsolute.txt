@@ -51,3 +51,4 @@
 /home/ogrey/dotnet/todoApp/API/bin/Debug/net10.0/Serilog.Sinks.Debug.dll
 /home/ogrey/dotnet/todoApp/API/bin/Debug/net10.0/Serilog.Sinks.File.dll
 /home/ogrey/dotnet/todoApp/API/bin/Debug/net10.0/Serilog.Sinks.Seq.dll
+/home/ogrey/dotnet/todoApp/API/obj/Debug/net10.0/API.sourcelink.json
